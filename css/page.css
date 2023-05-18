@@ -1,0 +1,20 @@
+.page {
+  height: 100vh;
+  background-color: #2b3c4b;
+  z-index: 1;
+}
+.skill-page {
+  height: 100vh;
+  background-color: #2b3c4b;
+  z-index: 1;
+}
+.work-page {
+  height: 100vh;
+  background-color: #2b3c4b;
+  z-index: 1;
+}
+.contact-page {
+  height: 100vh;
+  background-color: #2b3c4b;
+  z-index: 1;
+}

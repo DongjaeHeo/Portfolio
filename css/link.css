@@ -1,0 +1,6 @@
+a {
+  opacity: 0.5;
+  z-index: 2;
+  text-decoration: none !important;
+  font-size: 3.5vh;
+}
