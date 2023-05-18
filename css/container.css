@@ -1,8 +1,17 @@
-.container {
+.container_1 {
   margin-top: 35vh;
   height: 55vh;
 }
 
 .pl-3 {
   padding-left: 3vh;
+}
+
+.container_2 {
+  margin-top: 15vh;
+  height: 25vh;
+}
+
+.ml {
+  margin-left: 56px;
 }

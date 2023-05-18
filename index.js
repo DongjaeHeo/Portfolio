@@ -53,3 +53,9 @@ const runOnScroll = () => {
 // console.log(document.querySelector("body"));
 const body = document.querySelector("body");
 document.addEventListener("scroll", runOnScroll);
+
+const copy = () => {
+  const phoneNumber = "+44 7878 316 264";
+  navigator.clipboard.writeText(phoneNumber);
+  alert("Copied the number:" + phoneNumber);
+};

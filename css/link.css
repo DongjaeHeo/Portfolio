@@ -5,3 +5,11 @@ a {
   font-size: 3.5vh;
   color: white !important;
 }
+.op {
+  opacity: 1;
+  font-size: 4.5vh;
+}
+
+.mb {
+  margin-bottom: 1.5rem;
+}

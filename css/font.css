@@ -9,13 +9,18 @@ h1 {
 }
 
 .green {
-  color: #2bb673;
+  color: #2bb673 !important;
 }
 .white {
-  color: white;
+  color: white !important;
 }
 
 .number {
   font-size: 2vh;
   padding-right: 8px;
+}
+
+.phone {
+  font-size: 3vh;
+  cursor: pointer;
 }
